@@ -3,6 +3,6 @@
 - .NET MAUI
 - MVVM
 
-<img align="left" src="https://github.com/BusraYorulmaz/BMI/blob/main/screenshots/bmı_screen.png" width="400" height="450" />
+<img align="left" src="https://github.com/BusraYorulmaz/BMI/blob/main/screenshots/bmı_screen.png"   />
 
  
